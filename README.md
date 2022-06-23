@@ -10,7 +10,7 @@ API is hosted to 'Heroku' & API endpoints are not secured.
 * PostgreSQL
 
 ## API Demo Url
-[https://rapidpay-nwsdb.herokuapp.com/](https://rapidpay-nwsdb.herokuapp.com/)
+[https://rapidpay-nwsdb.herokuapp.com](https://rapidpay-nwsdb.herokuapp.com/)
 	
 ## API Endpoints
 	/nwsdb_user/getAllNwsdbUsers
